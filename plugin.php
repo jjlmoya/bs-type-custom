@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Custom Model [Post Type]
  * Plugin URI: https://www.bonseo.es/
- * Description: Modelo de Viaje por carretera
+ * Description: Modelo de Costumbres Lugareñas
  * Author: jjlmoya
  * Author URI: https://www.bonseo.es/
  * Version: 1.0.0

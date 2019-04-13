@@ -18,7 +18,7 @@ class Custom
 		$this->db = 'bs-custom';
 		$this->nameSpace = 'bs_custom';
 		$this->path = $path;
-		$this->icon = 'dashicons-chart-line';
+		$this->icon = 'dashicons-admin-multisite';
 		$this->customFields = $customFields;
 	}
 
