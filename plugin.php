@@ -128,4 +128,3 @@ function bs_custom_on_save($post_id)
 
 add_action('init', 'bs_custom_register_post_type');
 add_action('save_post', 'bs_custom_on_save');
-bs_custom_create_custom_params();
